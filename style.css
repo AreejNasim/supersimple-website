@@ -1,0 +1,248 @@
+.signupp{
+    height: 30px;
+    width: 100%;
+    background-color: #73264d;
+    color: wheat;
+    font-style: bold;
+    float:left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+   }
+ 
+.bg{
+ width:950px;
+ height: 80px;
+ font-style: bold;
+ font-size: x-large;
+ float:left;
+ background-color: #f9ecf2;
+ color: #660033;
+ margin-top:0px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ position: absolute;
+ top:0%;
+}
+.img{
+    width:70px;
+    height: 70px;
+    
+}
+.main{
+    height:50px;
+    width:100%;
+    float: left;
+    position: relative;
+}
+
+.home{
+    width:100px;
+    height:55px;
+    background-color: #f9ecf2;
+    float: left;
+    text-align: center;
+    font-style: italic;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 25px;
+    position: absolute;
+    top:0%;
+    left:950px;
+}
+.home:hover{
+    background-color: rgb(230, 195, 221);
+}
+
+.about{
+    width:100px;
+    height:55px;
+    background-color: #f9ecf2;
+    float: left;
+    text-align: center;
+    font-style: italic;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 25px;
+    position: absolute;
+    top:0%;
+    left:1050px;
+}
+.about:hover{
+    background-color: rgb(230, 195, 221);
+}
+
+.recipes{
+    width:100px;
+    height:55px;
+    background-color: #f9ecf2;
+    float:left;
+    text-align: center;
+    font-style: italic;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 25px;
+    position: absolute;
+    top:0%;
+    left:1150px;
+}
+.recipes:hover{
+    background-color: rgb(230, 195, 221);
+}
+
+.signup{
+    width: 80px;
+    height: 55px;
+    background-color: #f9ecf2;
+    float:left;
+    font-style: italic;
+    font-size: medium;
+    font-family: cursive;
+    color:black;
+    padding-bottom: 25px;
+   
+    
+    
+   }
+.signup:hover{
+    background-color: rgb(230, 195, 221);
+}
+.text{
+    height:120px;
+    width:1350px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    
+}
+.design{
+    font-size:x-large;
+    font-weight: 400;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#660033
+}
+.sign{
+    width:83px;
+   height:56px;
+    background-color: #f9ecf2;
+    float: left;
+    font-style: italic;
+    font-size: medium;
+    font-family: cursive;
+    transform: translate(50px, 50px);
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 14px;
+    padding-top: 10px;
+    position: absolute;
+    top:-50px;
+    left:1200px;
+
+}
+.sign:hover{
+    background-color: rgb(230, 195, 221);
+}
+.pic{
+    height:80px; 
+    width:100px;
+    margin-left: -680px;
+    background-color: #f9ecf2;
+}
+
+.slider{
+    width:1162px;
+    height: 500px;
+    background-color: whitesmoke;
+    padding-top: 20px;
+    padding-left: 170px;
+    float:left;
+}
+.gallery{
+   margin:10px;
+   border:2px solid #6e0138;
+   float: left;
+   height: 450px;
+   width:230px;
+   background-color: #f9ecf2;
+}
+.gallery img{
+    width: 230px;
+    height: 300px;
+    border-bottom: 1px solid black;
+}
+.desc{
+    padding:15px;
+    text-align: center;
+
+}
+.footer{
+    width: 1308px;
+    height:20px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    font-size: large;
+    background-color: #660033;
+    letter-spacing: 1px;
+    color: wheat;
+    float: left;
+}
+.body{
+    background-color: rgb(229, 204, 233);
+    background-image: url('Espaguetis vongole con salsa arrabiata-Los Tragaldabas.jpg');
+   
+    
+}
+.header{
+    width:100%;
+    height:50px;
+    background-color:#70063b;
+    font-size: larger;
+    color: #f9ecf2;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 15px;
+    
+}
+.logoo{
+    width:100px;
+    height:100px;
+   margin-top:-32px;
+   margin-right: 1200px;
+}
+.ht{
+    margin-top: -70px;
+    margin-right: 900px;
+    color: wheat;
+}
+.form{
+    color: #660033;
+    font-size: x-large;
+    text-align: center;
+}
+.button{
+   width:80px;
+   height:30px;
+   color:#660033;
+   background-color: rgb(206, 184, 212);
+}
+.name{
+    width:200px;
+    height:30px;
+}
+
+.email{
+    width:200px;
+    height:30px;
+    
+}
+.password{
+    width:200px;
+    height:30px;
+}
